@@ -37,7 +37,7 @@ const AddProductComponent = () => {
           onChange={(e) => setEmail(e.target.value)}
         />
 
-        <button type="submit">Add Product</button>
+        <button type="submit">Add New Product</button>
       </form>
     </div>
   );
